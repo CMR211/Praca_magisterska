@@ -1,0 +1,29 @@
+\begin{thebibliography}{99}
+\bibitem{poznan}
+	Zespół Blue Ocean Business consulting ds. transportu publicznego.
+	\emph{Koncepcja budowy funkcjonalnych węzłów przesiadkowych PKM w kierunku zwiększenia ich dostępności oraz oferowania usług komplementarnych do komunikacji publicznej}
+	lipiec 2015.
+	
+\bibitem{metodyka}
+	Piotr Olszewski, Halina Krukowska, Piotr Krukowski:
+	,,Metodyka oceny wskaźnikowej węzłów przesiadkowych transportu publicznego''
+	\emph{Transport miejski i regionalny}
+	czerwiec 2014.
+	
+\bibitem{stanko}
+	Katarzyna Stańko
+	title = {Przegląd i charakterystyka systemów parkingowych},
+	journal = {,,{M}echanika''},
+	year = 2012}
+	
+@book{spillar,
+	author = {Robert J. Spillar},
+	title = {Park-and-ride planning and design guidelines},
+	year = 1997}
+	
+@phdthesis{szarata,
+	author = {Andrzej Szarata},
+	title = {Ocena efektywności funkcjonalnej parkingów przesiadkowych (P+R)},
+	year = {październik 2005},
+	school = {Politechnika Krakowska}}
+	

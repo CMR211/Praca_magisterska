@@ -1,0 +1,73 @@
+\contentsline {section}{Streszczenie}{3}{section*.1}
+\contentsline {section}{\numberline {1}Wprowadzenie}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}Cel i zakres pracy}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Idea stosowania węzłów przesiadkowych}{4}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3},,Park and Ride''}{6}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Charakterystyka węzłów przesiadkowych}{10}{subsection.1.4}
+\contentsline {section}{\numberline {2}Projektowanie węzłów przesiadkowych}{12}{section.2}
+\contentsline {subsection}{\numberline {2.1}Czynniki wpływające na atrakcyjność węzłów przesiadkowych}{12}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Wskaźnikowa ocena węzłów przesiadkowych}{16}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Wybór lokalizacji z punktu widzenia użytkowników ,,Park and Ride''}{20}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Układ geometryczny węzła}{23}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Wymagania dla dróg}{26}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {2.5.1}Warunki geometryczne}{26}{subsubsection.2.5.1}
+\contentsline {subsubsection}{\numberline {2.5.2}Wymagania dla nawierzchni}{29}{subsubsection.2.5.2}
+\contentsline {subsubsection}{\numberline {2.5.3}Wymagania dla skrzyżowań i zjazdów}{30}{subsubsection.2.5.3}
+\contentsline {subsubsection}{\numberline {2.5.4}Wyposażenie techniczne dróg}{31}{subsubsection.2.5.4}
+\contentsline {subsubsection}{\numberline {2.5.5}Zalecenia dla infrastruktury autobusowej i tramwajowej}{32}{subsubsection.2.5.5}
+\contentsline {subsection}{\numberline {2.6}Wymagania dla infrastruktury tramwajowej}{34}{subsection.2.6}
+\contentsline {subsubsection}{\numberline {2.6.1}Torowisko tramwajowe}{34}{subsubsection.2.6.1}
+\contentsline {subsubsection}{\numberline {2.6.2}Przystanki i perony tramwajowe}{36}{subsubsection.2.6.2}
+\contentsline {subsubsection}{\numberline {2.6.3}Prowadzenie toru w planie}{37}{subsubsection.2.6.3}
+\contentsline {subsection}{\numberline {2.7}Ciągi piesze i rowerowe}{40}{subsection.2.7}
+\contentsline {subsubsection}{\numberline {2.7.1}Zalecenia ogólne}{40}{subsubsection.2.7.1}
+\contentsline {subsubsection}{\numberline {2.7.2}Poziom swobody ruchu pieszych}{42}{subsubsection.2.7.2}
+\contentsline {subsubsection}{\numberline {2.7.3}Wytyczne dla miasta Wrocław}{43}{subsubsection.2.7.3}
+\contentsline {subsubsection}{\numberline {2.7.4}Przejścia dla pieszych}{45}{subsubsection.2.7.4}
+\contentsline {subsection}{\numberline {2.8}Obsługa osób niepełnosprawnych oraz starszych}{46}{subsection.2.8}
+\contentsline {section}{\numberline {3}Studia istniejących rozwiązań}{48}{section.3}
+\contentsline {subsection}{\numberline {3.1}Pętla Łostowice-Świętokrzyska, Gdańsk}{48}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Rondo Reagana (plac Grunwaldzki), Wrocław}{54}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Węzły przesiadkowe ,,Bieżanów'' oraz ,,Kurdwanów'', Kraków}{59}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Młociny, Warszawa}{64}{subsection.3.4}
+\contentsline {section}{\numberline {4}Projekt węzła przesiadkowego na terenie Wrocławia}{68}{section.4}
+\contentsline {subsection}{\numberline {4.1}Wybór lokalizacji}{68}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Istniejące parkingi ,,park and ride'' we Wrocławiu}{68}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Planowane parkingi ,,park and ride''}{68}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.3}Analiza i wybór wybranych wariantów}{73}{subsubsection.4.1.3}
+\contentsline {subsection}{\numberline {4.2}Dane do projektowania -- Wysoka}{75}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Wschodnia Obwodnica Wrocławia}{75}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Stanowiska autobusowe}{75}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Pętla tramwajowa}{76}{subsubsection.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.4}Perony}{77}{subsubsection.4.2.4}
+\contentsline {subsubsection}{\numberline {4.2.5}Parking dla samochodów osobowych}{77}{subsubsection.4.2.5}
+\contentsline {subsubsection}{\numberline {4.2.6}Dane dotyczące ruchu}{77}{subsubsection.4.2.6}
+\contentsline {subsection}{\numberline {4.3}Charakterystyka zaprojektowanych koncepcji}{79}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Koncepcja nr 1}{79}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Koncepcja nr 2}{80}{subsubsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3}Analiza przedstawionych wariantów}{81}{subsubsection.4.3.3}
+\contentsline {subsection}{\numberline {4.4}Obliczenia dla koncepcji nr 1}{84}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}Obliczenia łuków poziomych torów tramwajowych}{84}{subsubsection.4.4.1}
+\contentsline {subsubsection}{\numberline {4.4.2}Obliczenia poziomu swobody pieszych}{85}{subsubsection.4.4.2}
+\contentsline {subsubsection}{\numberline {4.4.3}Nawierzchnia jezdni}{86}{subsubsection.4.4.3}
+\contentsline {subsection}{\numberline {4.5}Opis techniczny}{88}{subsection.4.5}
+\contentsline {subsubsection}{\numberline {4.5.1}Cel i zakres pracy}{88}{subsubsection.4.5.1}
+\contentsline {subsubsection}{\numberline {4.5.2}Podstawa prawna}{88}{subsubsection.4.5.2}
+\contentsline {subsubsection}{\numberline {4.5.3}Opis sytuacji}{89}{subsubsection.4.5.3}
+\contentsline {paragraph}{Stan istniejący}{89}{section*.72}
+\contentsline {paragraph}{Stan przyszły}{89}{section*.73}
+\contentsline {paragraph}{Komunikacja publiczna}{89}{section*.74}
+\contentsline {subsubsection}{\numberline {4.5.4}Proponowane rozwiązania}{90}{subsubsection.4.5.4}
+\contentsline {paragraph}{Pętla tramwajowa}{90}{section*.75}
+\contentsline {paragraph}{Pętla autobusowa}{90}{section*.76}
+\contentsline {paragraph}{Perony dla pasażerów}{91}{section*.77}
+\contentsline {paragraph}{Parking dla samochodów}{91}{section*.78}
+\contentsline {paragraph}{Ciągi piesze}{91}{section*.79}
+\contentsline {paragraph}{Organizacja ruchu}{92}{section*.80}
+\contentsline {paragraph}{Infrastruktura węzła}{92}{section*.81}
+\contentsline {subsubsection}{\numberline {4.5.5}Schemat funkcjonalno-ruchowy}{92}{subsubsection.4.5.5}
+\contentsline {section}{\numberline {5}Podsumowanie}{94}{section.5}
+\contentsline {section}{Spis rysunków}{95}{section.5}
+\contentsline {section}{Spis tabel}{97}{section*.84}
+\contentsline {section}{Literatura}{99}{section*.85}
+\contentsline {section}{Spis załączników}{103}{section*.86}

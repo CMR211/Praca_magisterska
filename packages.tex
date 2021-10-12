@@ -1,0 +1,53 @@
+
+%PDFLatex obsolete packages:
+%	\usepackage[utf8]{inputenc}
+%	\usepackage[T1]{fontenc}
+%	\usepackage[polish]{babel}
+%	\usepackage{lmodern}
+
+%LuaTex packages:
+	\usepackage{fontspec}
+	\setmainfont{Times New Roman}\let\emph\textit
+	\usepackage{polski}
+	\defaultfontfeatures{Ligatures=TeX} %ligatury w luatex
+
+%tekst:
+	\usepackage{setspace} \onehalfspacing %interlinie 1.5
+	%\usepackage{indentfirst} %aby pierwszy paragraf również był wcięty
+	%\usepackage[ampersand]{easylist} %łatwiejsze listy
+	\usepackage{verbatim} %środowisko kodu
+	\usepackage{microtype} %poprawki tekstu
+	%\usepackage{titlesec} %tytuły sekcji i rozdziałów
+	\usepackage{textcomp} %symbole text companion
+
+%tabele:
+	\usepackage{hhline} %linie poziome w tabelach
+	\usepackage{tabu}
+	\usepackage{booktabs}
+	\usepackage{bigstrut}
+	\usepackage{multirow}
+
+%nagłówki:
+	\usepackage{fancyhdr} 
+
+%matematyka
+	\usepackage{amsmath} %zapis matematyczny
+	\usepackage{amsfonts} %znaki matematyczne
+	\usepackage{siunitx} %jednostki SI
+	\usepackage{fp} %obliczenia zmiennoprzecinkowe
+	\usepackage{gensymb} %symbole
+	\usepackage{ifthen}
+
+%figury:
+	\usepackage{float} %aby użyć [H]
+	\usepackage{pgfplots}	\pgfplotsset{width=10cm,compat=1.9} %obrazki z pdfów
+	\usepackage{caption} \captionsetup{justification=centering,labelfont=bf} %podpisy pod obrazkami
+	\usepackage{graphicx}	\graphicspath{ {img/} } %importowanie obrazów
+	\usepackage{subcaption} %dodatkowe captions dla subfigur
+	
+%wdowy i sieroty
+	%\widowpenalty=10000
+	%\clubpenalty=10000
+
+	\usepackage{hyperref} %odnosniki
+	\hypersetup{colorlinks=true, linkcolor=black, filecolor=magenta, urlcolor=blue, citecolor=black}

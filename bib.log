@@ -1,0 +1,4794 @@
+This is LuaTeX, Version 1.0.0 (MiKTeX 2.9.6210 64-bit)  (format=lualatex 2017.6.15)  7 MAY 2018 13:18
+ restricted system commands enabled.
+**bib.tex
+(./bib.tex
+LaTeX2e <2017/01/01> patch level 1
+Lua module: luaotfload-main 2016/06/16 2.70003 OpenType layout system.
+Lua module: lualibs 2016-04-06 2.4 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2016-04-06 2.4 ConTeXt Lua libraries -- extended co
+llection.(using cache: C:/Users/Bartosz/AppData/Local/MiKTeX/2.9/luatex-cache/ge
+neric)
+luaotfload | conf : Root cache directory is C:/Users/Bartosz/AppData/Local/MiKTe
+X/2.9/luatex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2016-06-16.lua” from kpse
+-resolved path “C:/Program Files/MiKTeX 2.9/tex/luatex/luaotfload/fontloader-2
+016-06-16.lua”.
+Lua-only attribute luaotfload@state = 1
+Lua-only attribute luaotfload@noligature = 2
+Lua-only attribute luaotfload@syllabe = 3
+luaotfload | init : Context OpenType loader version “3.023”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 4
+luaotfload | conf : Root cache directory is C:/Users/Bartosz/AppData/Local/MiKTe
+X/2.9/luatex-cache/generic/names.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
+.
+luaotfload | main : initialization completed in 0.390 seconds
+Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
+
+! LaTeX Error: Environment thebibliography undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{thebibliography}
+                         {99}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{thebibliography}{9
+                           9}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[]99 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \bibitem{urbanistyka}
+                       
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.3 \bibitem{urbanistyka}
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.3 \bibitem{urbanistyka}
+                       
+I'm forgetting what you said and using zero instead.
+
+\bibcite{urbanistyka}{0}
+luaotfload | db : Font names database loaded from C:/Users/Bartosz/AppData/Local
+/MiKTeX/2.9/luatex-cache/generic/names/luaotfload-names.luc(compiling luc: C:/Us
+ers/Bartosz/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otl/lmroman10-it
+alic.luc)(save: C:/Users/Bartosz/AppData/Local/MiKTeX/2.9/luatex-cache/generic/f
+onts/otl/lmroman10-italic.lua)(save: C:/Users/Bartosz/AppData/Local/MiKTeX/2.9/l
+uatex-cache/generic/fonts/otl/lmroman10-italic.luc)
+Overfull \hbox (19.17001pt too wide) in paragraph at lines 4--7
+\TU/lmr/m/it/10 Teo-
+ []
+
+
+Overfull \hbox (12.40001pt too wide) in paragraph at lines 4--7
+\TU/lmr/m/it/10 ria
+ []
+
+
+Overfull \hbox (13.17pt too wide) in paragraph at lines 4--7
+\TU/lmr/m/it/10 ur-
+ []
+
+
+Overfull \hbox (18.40001pt too wide) in paragraph at lines 4--7
+\TU/lmr/m/it/10 ban-
+ []
+
+
+Overfull \hbox (23.01003pt too wide) in paragraph at lines 4--7
+\TU/lmr/m/it/10 istyki
+ []
+
+
+Overfull \hbox (6.64pt too wide) in paragraph at lines 4--7
+\TU/lmr/m/it/10 w
+ []
+
+
+Overfull \hbox (17.51001pt too wide) in paragraph at lines 4--7
+\TU/lmr/m/it/10 pro-
+ []
+
+
+Overfull \hbox (15.85002pt too wide) in paragraph at lines 4--7
+\TU/lmr/m/it/10 jek-
+ []
+
+
+Overfull \hbox (23.76001pt too wide) in paragraph at lines 4--7
+\TU/lmr/m/it/10 towa-
+ []
+
+
+Overfull \hbox (14.06pt too wide) in paragraph at lines 4--7
+\TU/lmr/m/it/10 niu
+ []
+
+
+Overfull \hbox (3.07pt too wide) in paragraph at lines 4--7
+\TU/lmr/m/it/10 i
+ []
+
+
+Overfull \hbox (38.84pt too wide) in paragraph at lines 4--7
+\TU/lmr/m/it/10 planowa-
+ []
+
+
+Overfull \hbox (14.06pt too wide) in paragraph at lines 4--7
+\TU/lmr/m/it/10 niu
+ []
+
+
+Overfull \hbox (14.83pt too wide) in paragraph at lines 4--7
+\TU/lmr/m/it/10 mi-
+ []
+
+
+Overfull \hbox (12.52pt too wide) in paragraph at lines 4--7
+\TU/lmr/m/it/10 ast\nullfont .
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \bibitem{projektowanie_obiektow_motoryzacyjnych}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.8 \bibitem{projektowanie_obiektow_motoryzacyjnych}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.8 \bibitem{projektowanie_obiektow_motoryzacyjnych}
+                                                  
+I'm forgetting what you said and using zero instead.
+
+\bibcite{projektowanie_obiektow_motoryzacyjnych}{0}
+
+Overfull \hbox (19.18001pt too wide) in paragraph at lines 9--12
+\TU/lmr/m/it/10 Pro-
+ []
+
+
+Overfull \hbox (15.85002pt too wide) in paragraph at lines 9--12
+\TU/lmr/m/it/10 jek-
+ []
+
+
+Overfull \hbox (33.47002pt too wide) in paragraph at lines 9--12
+\TU/lmr/m/it/10 towanie
+ []
+
+
+Overfull \hbox (25.56003pt too wide) in paragraph at lines 9--12
+\TU/lmr/m/it/10 obiek-
+ []
+
+
+Overfull \hbox (15.07pt too wide) in paragraph at lines 9--12
+\TU/lmr/m/it/10 tów
+ []
+
+
+Overfull \hbox (16.87pt too wide) in paragraph at lines 9--12
+\TU/lmr/m/it/10 mo-
+ []
+
+
+Overfull \hbox (12.01001pt too wide) in paragraph at lines 9--12
+\TU/lmr/m/it/10 to-
+ []
+
+
+Overfull \hbox (21.86pt too wide) in paragraph at lines 9--12
+\TU/lmr/m/it/10 ryza-
+ []
+
+
+Overfull \hbox (32.72002pt too wide) in paragraph at lines 9--12
+\TU/lmr/m/it/10 cyjnych\nullfont .
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \bibitem{poznan}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.13 \bibitem{poznan}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.13 \bibitem{poznan}
+                   
+I'm forgetting what you said and using zero instead.
+
+\bibcite{poznan}{0}
+
+Overfull \hbox (21.49pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 Kon-
+ []
+
+
+Overfull \hbox (26.07004pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 cepcja
+ []
+
+
+Overfull \hbox (13.55pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 bu-
+ []
+
+
+Overfull \hbox (21.72pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 dowy
+ []
+
+
+Overfull \hbox (40.64001pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 funkcjon-
+ []
+
+
+Overfull \hbox (11.25pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 al-
+ []
+
+
+Overfull \hbox (20.19pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 nych
+ []
+
+
+Overfull \hbox (30.27pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 węzłów
+ []
+
+
+Overfull \hbox (21.6pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 prze-
+ []
+
+
+Overfull \hbox (10.74pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 si-
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 ad-
+ []
+
+
+Overfull \hbox (30.92001pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 kowych
+ []
+
+
+Overfull \hbox (23.44pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 PKM
+ []
+
+
+Overfull \hbox (6.64pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 w
+ []
+
+
+Overfull \hbox (37.45001pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 kierunku
+ []
+
+
+Overfull \hbox (26.58002pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 zwięk-
+ []
+
+
+Overfull \hbox (26.58pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 szenia
+ []
+
+
+Overfull \hbox (12.78001pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 ich
+ []
+
+
+Overfull \hbox (30.92001pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 dostęp-
+ []
+
+
+Overfull \hbox (22.49pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 ności
+ []
+
+
+Overfull \hbox (18.02pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 oraz
+ []
+
+
+Overfull \hbox (20.58002pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 ofer-
+ []
+
+
+Overfull \hbox (20.44pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 owa-
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 nia
+ []
+
+
+Overfull \hbox (22.62pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 usług
+ []
+
+
+Overfull \hbox (21.47pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 kom-
+ []
+
+
+Overfull \hbox (15.85pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 ple-
+ []
+
+
+Overfull \hbox (21.98pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 men-
+ []
+
+
+Overfull \hbox (32.84001pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 tarnych
+ []
+
+
+Overfull \hbox (10.22pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 do
+ []
+
+
+Overfull \hbox (13.29001pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 ko-
+ []
+
+
+Overfull \hbox (17.12999pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 mu-
+ []
+
+
+Overfull \hbox (29.14003pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 nikacji
+ []
+
+
+Overfull \hbox (18.66pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 pub-
+ []
+
+
+Overfull \hbox (27.61002pt too wide) in paragraph at lines 14--17
+\TU/lmr/m/it/10 licznej\nullfont .
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \bibitem{metodyka}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.18 \bibitem{metodyka}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.18 \bibitem{metodyka}
+                     
+I'm forgetting what you said and using zero instead.
+
+\bibcite{metodyka}{0}
+
+Overfull \hbox (41.17003pt too wide) in paragraph at lines 19--23
+\TU/lmr/m/it/10 Metodyka
+ []
+
+
+Overfull \hbox (23.77002pt too wide) in paragraph at lines 19--23
+\TU/lmr/m/it/10 oceny
+ []
+
+
+Overfull \hbox (57.24002pt too wide) in paragraph at lines 19--23
+\TU/lmr/m/it/10 wskaźnikowej
+ []
+
+
+Overfull \hbox (30.27pt too wide) in paragraph at lines 19--23
+\TU/lmr/m/it/10 węzłów
+ []
+
+
+Overfull \hbox (21.6pt too wide) in paragraph at lines 19--23
+\TU/lmr/m/it/10 prze-
+ []
+
+
+Overfull \hbox (10.74pt too wide) in paragraph at lines 19--23
+\TU/lmr/m/it/10 si-
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 19--23
+\TU/lmr/m/it/10 ad-
+ []
+
+
+Overfull \hbox (30.92001pt too wide) in paragraph at lines 19--23
+\TU/lmr/m/it/10 kowych
+ []
+
+
+Overfull \hbox (25.43001pt too wide) in paragraph at lines 19--23
+\TU/lmr/m/it/10 trans-
+ []
+
+
+Overfull \hbox (22.62001pt too wide) in paragraph at lines 19--23
+\TU/lmr/m/it/10 portu
+ []
+
+
+Overfull \hbox (18.66pt too wide) in paragraph at lines 19--23
+\TU/lmr/m/it/10 pub-
+ []
+
+
+Overfull \hbox (36.81003pt too wide) in paragraph at lines 19--23
+\TU/lmr/m/it/10 licznego.
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \bibitem{stanko}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.24 \bibitem{stanko}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.24 \bibitem{stanko}
+                   
+I'm forgetting what you said and using zero instead.
+
+\bibcite{stanko}{0}
+
+Overfull \hbox (36.56001pt too wide) in paragraph at lines 25--28
+\TU/lmr/m/it/10 Przegląd
+ []
+
+
+Overfull \hbox (3.07pt too wide) in paragraph at lines 25--28
+\TU/lmr/m/it/10 i
+ []
+
+
+Overfull \hbox (31.82002pt too wide) in paragraph at lines 25--28
+\TU/lmr/m/it/10 charak-
+ []
+
+
+Overfull \hbox (38.98003pt too wide) in paragraph at lines 25--28
+\TU/lmr/m/it/10 terystyka
+ []
+
+
+Overfull \hbox (16.62pt too wide) in paragraph at lines 25--28
+\TU/lmr/m/it/10 sys-
+ []
+
+
+Overfull \hbox (27.85pt too wide) in paragraph at lines 25--28
+\TU/lmr/m/it/10 temów
+ []
+
+
+Overfull \hbox (61.21004pt too wide) in paragraph at lines 25--28
+\TU/lmr/m/it/10 parkingowych.
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 \bibitem{spillar}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.29 \bibitem{spillar}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.29 \bibitem{spillar}
+                    
+I'm forgetting what you said and using zero instead.
+
+\bibcite{spillar}{0}
+
+Overfull \hbox (24.29001pt too wide) in paragraph at lines 30--33
+\TU/lmr/m/it/10 Park-
+ []
+
+
+Overfull \hbox (19.42pt too wide) in paragraph at lines 30--33
+\TU/lmr/m/it/10 and-
+ []
+
+
+Overfull \hbox (17.00002pt too wide) in paragraph at lines 30--33
+\TU/lmr/m/it/10 ride
+ []
+
+
+Overfull \hbox (21.98pt too wide) in paragraph at lines 30--33
+\TU/lmr/m/it/10 plan-
+ []
+
+
+Overfull \hbox (18.91pt too wide) in paragraph at lines 30--33
+\TU/lmr/m/it/10 ning
+ []
+
+
+Overfull \hbox (15.84pt too wide) in paragraph at lines 30--33
+\TU/lmr/m/it/10 and
+ []
+
+
+Overfull \hbox (13.29001pt too wide) in paragraph at lines 30--33
+\TU/lmr/m/it/10 de-
+ []
+
+
+Overfull \hbox (17.38pt too wide) in paragraph at lines 30--33
+\TU/lmr/m/it/10 sign
+ []
+
+
+Overfull \hbox (26.33002pt too wide) in paragraph at lines 30--33
+\TU/lmr/m/it/10 guide-
+ []
+
+
+Overfull \hbox (23.01001pt too wide) in paragraph at lines 30--33
+\TU/lmr/m/it/10 lines.
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \bibitem{szarata}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.34 \bibitem{szarata}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.34 \bibitem{szarata}
+                    
+I'm forgetting what you said and using zero instead.
+
+\bibcite{szarata}{0}
+
+Overfull \hbox (27.09001pt too wide) in paragraph at lines 35--39
+\TU/lmr/m/it/10 Ocena
+ []
+
+
+Overfull \hbox (20.45003pt too wide) in paragraph at lines 35--39
+\TU/lmr/m/it/10 efek-
+ []
+
+
+Overfull \hbox (11.76001pt too wide) in paragraph at lines 35--39
+\TU/lmr/m/it/10 ty-
+ []
+
+
+Overfull \hbox (29.13pt too wide) in paragraph at lines 35--39
+\TU/lmr/m/it/10 wności
+ []
+
+
+Overfull \hbox (40.64001pt too wide) in paragraph at lines 35--39
+\TU/lmr/m/it/10 funkcjon-
+ []
+
+
+Overfull \hbox (11.25pt too wide) in paragraph at lines 35--39
+\TU/lmr/m/it/10 al-
+ []
+
+
+Overfull \hbox (13.29001pt too wide) in paragraph at lines 35--39
+\TU/lmr/m/it/10 nej
+ []
+
+
+Overfull \hbox (22.11002pt too wide) in paragraph at lines 35--39
+\TU/lmr/m/it/10 park-
+ []
+
+
+Overfull \hbox (25.04001pt too wide) in paragraph at lines 35--39
+\TU/lmr/m/it/10 ingów
+ []
+
+
+Overfull \hbox (21.6pt too wide) in paragraph at lines 35--39
+\TU/lmr/m/it/10 prze-
+ []
+
+
+Overfull \hbox (10.74pt too wide) in paragraph at lines 35--39
+\TU/lmr/m/it/10 si-
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 35--39
+\TU/lmr/m/it/10 ad-
+ []
+
+
+Overfull \hbox (30.92001pt too wide) in paragraph at lines 35--39
+\TU/lmr/m/it/10 kowych
+ []
+
+
+Overfull \hbox (32.98999pt too wide) in paragraph at lines 35--39
+\TU/lmr/m/it/10 (P+R).
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \bibitem{oxford}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.40 \bibitem{oxford}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.40 \bibitem{oxford}
+                   
+I'm forgetting what you said and using zero instead.
+
+\bibcite{oxford}{0}
+! Undefined control sequence.
+l.44 	\url
+        {http://www.oxfordmail.co.uk/news/10859209.How_Oxford_led_the_way_to...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.44 ...tp://www.oxfordmail.co.uk/news/10859209.How_
+                                                  Oxford_led_the_way_to_crea...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 44.
+! Extra }, or forgotten $.
+l.44 ...xford_led_the_way_to_create_Park_and_Rides/}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.45 
+   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (19.18pt too wide) in paragraph at lines 41--45
+\TU/lmr/m/it/10 How
+ []
+
+
+Overfull \hbox (15.89pt too wide) in paragraph at lines 41--45
+\TU/lmr/m/it/10 Ox-
+ []
+
+
+Overfull \hbox (17.00002pt too wide) in paragraph at lines 41--45
+\TU/lmr/m/it/10 ford
+ []
+
+
+Overfull \hbox (11.76001pt too wide) in paragraph at lines 41--45
+\TU/lmr/m/it/10 led
+ []
+
+
+Overfull \hbox (13.03001pt too wide) in paragraph at lines 41--45
+\TU/lmr/m/it/10 the
+ []
+
+
+Overfull \hbox (16.61pt too wide) in paragraph at lines 41--45
+\TU/lmr/m/it/10 way
+ []
+
+
+Overfull \hbox (8.43001pt too wide) in paragraph at lines 41--45
+\TU/lmr/m/it/10 to
+ []
+
+
+Overfull \hbox (16.49002pt too wide) in paragraph at lines 41--45
+\TU/lmr/m/it/10 cre-
+ []
+
+
+Overfull \hbox (13.03001pt too wide) in paragraph at lines 41--45
+\TU/lmr/m/it/10 ate
+ []
+
+
+Overfull \hbox (20.71pt too wide) in paragraph at lines 41--45
+\TU/lmr/m/it/10 Park
+ []
+
+
+Overfull \hbox (15.84pt too wide) in paragraph at lines 41--45
+\TU/lmr/m/it/10 and
+ []
+
+
+Overfull \hbox (26.97002pt too wide) in paragraph at lines 41--45
+\TU/lmr/m/it/10 Rides.
+ []
+
+
+Overfull \hbox (179.84659pt too wide) in paragraph at lines 41--45
+http://www.oxfordmail.co.uk/news/10859209.How$[][]\OML/cmm/m/it/10 xford[]ed[]h
+e[]ay[]o[]reate[]ark[]nd[]ides=$ 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 \bibitem{szarata2}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.46 \bibitem{szarata2}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.46 \bibitem{szarata2}
+                     
+I'm forgetting what you said and using zero instead.
+
+\bibcite{szarata2}{0}
+
+Overfull \hbox (23.79pt too wide) in paragraph at lines 47--50
+\TU/lmr/m/it/10 Anal-
+ []
+
+
+Overfull \hbox (12.27pt too wide) in paragraph at lines 47--50
+\TU/lmr/m/it/10 iza
+ []
+
+
+Overfull \hbox (38.34003pt too wide) in paragraph at lines 47--50
+\TU/lmr/m/it/10 wielkości
+ []
+
+
+Overfull \hbox (22.11002pt too wide) in paragraph at lines 47--50
+\TU/lmr/m/it/10 park-
+ []
+
+
+Overfull \hbox (25.04001pt too wide) in paragraph at lines 47--50
+\TU/lmr/m/it/10 ingów
+ []
+
+
+Overfull \hbox (20.71pt too wide) in paragraph at lines 47--50
+\TU/lmr/m/it/10 Park
+ []
+
+
+Overfull \hbox (15.84pt too wide) in paragraph at lines 47--50
+\TU/lmr/m/it/10 and
+ []
+
+
+Overfull \hbox (19.81001pt too wide) in paragraph at lines 47--50
+\TU/lmr/m/it/10 Ride
+ []
+
+
+Overfull \hbox (30.68001pt too wide) in paragraph at lines 47--50
+\TU/lmr/m/it/10 zlokali-
+ []
+
+
+Overfull \hbox (41.14pt too wide) in paragraph at lines 47--50
+\TU/lmr/m/it/10 zowanych
+ []
+
+
+Overfull \hbox (6.64pt too wide) in paragraph at lines 47--50
+\TU/lmr/m/it/10 w
+ []
+
+
+Overfull \hbox (13.29001pt too wide) in paragraph at lines 47--50
+\TU/lmr/m/it/10 ob-
+ []
+
+
+Overfull \hbox (31.82pt too wide) in paragraph at lines 47--50
+\TU/lmr/m/it/10 szarach
+ []
+
+
+Overfull \hbox (43.84003pt too wide) in paragraph at lines 47--50
+\TU/lmr/m/it/10 metropoli-
+ []
+
+
+Overfull \hbox (35.91002pt too wide) in paragraph at lines 47--50
+\TU/lmr/m/it/10 tarnych.
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \bibitem{makarova}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.51 \bibitem{makarova}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.51 \bibitem{makarova}
+                     
+I'm forgetting what you said and using zero instead.
+
+\bibcite{makarova}{0}
+
+Overfull \hbox (23.79pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 Anal-
+ []
+
+
+Overfull \hbox (8.44pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 y-
+ []
+
+
+Overfull \hbox (11.25pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 sis
+ []
+
+
+Overfull \hbox (8.18001pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 of
+ []
+
+
+Overfull \hbox (13.03001pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 the
+ []
+
+
+Overfull \hbox (15.85002pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 city
+ []
+
+
+Overfull \hbox (25.43001pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 trans-
+ []
+
+
+Overfull \hbox (17.25002pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 port
+ []
+
+
+Overfull \hbox (16.62pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 sys-
+ []
+
+
+Overfull \hbox (23.26001pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 tem’s
+ []
+
+
+Overfull \hbox (13.29001pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 de-
+ []
+
+
+Overfull \hbox (15.34001pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 vel-
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 op-
+ []
+
+
+Overfull \hbox (21.72pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 ment
+ []
+
+
+Overfull \hbox (23.13002pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 strat-
+ []
+
+
+Overfull \hbox (13.55002pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 egy
+ []
+
+
+Overfull \hbox (13.29001pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 de-
+ []
+
+
+Overfull \hbox (17.38pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 sign
+ []
+
+
+Overfull \hbox (23.13pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 pron-
+ []
+
+
+Overfull \hbox (11.25002pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 ci-
+ []
+
+
+Overfull \hbox (16.36pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 ples
+ []
+
+
+Overfull \hbox (18.14001pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 with
+ []
+
+
+Overfull \hbox (13.29001pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 ac-
+ []
+
+
+Overfull \hbox (23.51001pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 count
+ []
+
+
+Overfull \hbox (8.18001pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 of
+ []
+
+
+Overfull \hbox (20.07pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 risks
+ []
+
+
+Overfull \hbox (15.84pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 and
+ []
+
+
+Overfull \hbox (16.87001pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 spe-
+ []
+
+
+Overfull \hbox (17.89001pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 cific
+ []
+
+
+Overfull \hbox (15.85002pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 fea-
+ []
+
+
+Overfull \hbox (21.09001pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 tures
+ []
+
+
+Overfull \hbox (8.18001pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 of
+ []
+
+
+Overfull \hbox (17.38pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 spa-
+ []
+
+
+Overfull \hbox (10.74pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 ial
+ []
+
+
+Overfull \hbox (13.29001pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 de-
+ []
+
+
+Overfull \hbox (15.34001pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 vel-
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 op-
+ []
+
+
+Overfull \hbox (21.72pt too wide) in paragraph at lines 52--55
+\TU/lmr/m/it/10 ment
+ []
+
+(load luc: C:/Users/Bartosz/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/
+otl/lmroman10-regular.luc)
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55 
+   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1
+Missing character: There is no 9 (U+0039) in font nullfont!
+Missing character: There is no 9 (U+0039) in font nullfont!
+Missing character: There is no J (U+004A) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no M (U+004D) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no j (U+006A) in font nullfont!
+Missing character: There is no C (U+0043) in font nullfont!
+Missing character: There is no h (U+0068) in font nullfont!
+Missing character: There is no m (U+006D) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no O (U+004F) in font nullfont!
+Missing character: There is no f (U+0066) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no y (U+0079) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no W (U+0057) in font nullfont!
+Missing character: There is no y (U+0079) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no P (U+0050) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no h (U+0068) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no W (U+0057) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no j (U+006A) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no W (U+0057) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no 2 (U+0032) in font nullfont!
+Missing character: There is no 0 (U+0030) in font nullfont!
+Missing character: There is no 0 (U+0030) in font nullfont!
+Missing character: There is no 1 (U+0031) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no W (U+0057) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no ł (U+0142) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no M (U+004D) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no ś (U+015B) in font nullfont!
+Missing character: There is no - (U+002D) in font nullfont!
+Missing character: There is no R (U+0052) in font nullfont!
+Missing character: There is no y (U+0079) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no , (U+002C) in font nullfont!
+Missing character: There is no J (U+004A) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no B (U+0042) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no ń (U+0144) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no , (U+002C) in font nullfont!
+Missing character: There is no J (U+004A) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no ł (U+0142) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no F (U+0046) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no g (U+0067) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no , (U+002C) in font nullfont!
+Missing character: There is no K (U+004B) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no y (U+0079) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no f (U+0066) in font nullfont!
+Missing character: There is no K (U+004B) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no , (U+002C) in font nullfont!
+Missing character: There is no A (U+0041) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no m (U+006D) in font nullfont!
+Missing character: There is no L (U+004C) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no W (U+0057) in font nullfont!
+Missing character: There is no y (U+0079) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no P (U+0050) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no h (U+0068) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no Ś (U+015A) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no ą (U+0105) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no j (U+006A) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no G (U+0047) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no 2 (U+0032) in font nullfont!
+Missing character: There is no 0 (U+0030) in font nullfont!
+Missing character: There is no 0 (U+0030) in font nullfont!
+Missing character: There is no 8 (U+0038) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no Z (U+005A) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no p (U+0070) in font nullfont!
+Missing character: There is no ó (U+00F3) in font nullfont!
+Missing character: There is no ł (U+0142) in font nullfont!
+Missing character: There is no B (U+0042) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no O (U+004F) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no B (U+0042) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no g (U+0067) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no p (U+0070) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no p (U+0070) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no b (U+0062) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no g (U+0067) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no L (U+004C) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no p (U+0070) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no 2 (U+0032) in font nullfont!
+Missing character: There is no 0 (U+0030) in font nullfont!
+Missing character: There is no 1 (U+0031) in font nullfont!
+Missing character: There is no 5 (U+0035) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no P (U+0050) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no O (U+004F) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no , (U+002C) in font nullfont!
+Missing character: There is no H (U+0048) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no K (U+004B) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no , (U+002C) in font nullfont!
+Missing character: There is no P (U+0050) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no K (U+004B) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no : (U+003A) in font nullfont!
+Missing character: There is no C (U+0043) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no p (U+0070) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no m (U+006D) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no , (U+002C) in font nullfont!
+Missing character: There is no , (U+002C) in font nullfont!
+Missing character: There is no T (U+0054) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no p (U+0070) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no m (U+006D) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no j (U+006A) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no g (U+0067) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no y (U+0079) in font nullfont!
+Missing character: There is no ' (U+0027) in font nullfont!
+Missing character: There is no ' (U+0027) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no C (U+0043) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no 2 (U+0032) in font nullfont!
+Missing character: There is no 0 (U+0030) in font nullfont!
+Missing character: There is no 1 (U+0031) in font nullfont!
+Missing character: There is no 4 (U+0034) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no K (U+004B) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no y (U+0079) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no S (U+0053) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no ń (U+0144) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no C (U+0043) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no p (U+0070) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no m (U+006D) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no , (U+002C) in font nullfont!
+Missing character: There is no , (U+002C) in font nullfont!
+Missing character: There is no M (U+004D) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no h (U+0068) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no ' (U+0027) in font nullfont!
+Missing character: There is no ' (U+0027) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no 2 (U+0032) in font nullfont!
+Missing character: There is no 0 (U+0030) in font nullfont!
+Missing character: There is no 1 (U+0031) in font nullfont!
+Missing character: There is no 2 (U+0032) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no R (U+0052) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no b (U+0062) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no J (U+004A) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no S (U+0053) in font nullfont!
+Missing character: There is no p (U+0070) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no P (U+0050) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no B (U+0042) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no h (U+0068) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no f (U+0066) in font nullfont!
+Missing character: There is no f (U+0066) in font nullfont!
+Missing character: There is no I (U+0049) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no 1 (U+0031) in font nullfont!
+Missing character: There is no 9 (U+0039) in font nullfont!
+Missing character: There is no 9 (U+0039) in font nullfont!
+Missing character: There is no 7 (U+0037) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no A (U+0041) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no j (U+006A) in font nullfont!
+Missing character: There is no S (U+0053) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no P (U+0050) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no P (U+0050) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no h (U+0068) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no K (U+004B) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no P (U+0050) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no ź (U+017A) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no 2 (U+0032) in font nullfont!
+Missing character: There is no 0 (U+0030) in font nullfont!
+Missing character: There is no 0 (U+0030) in font nullfont!
+Missing character: There is no 5 (U+0035) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no O (U+004F) in font nullfont!
+Missing character: There is no x (U+0078) in font nullfont!
+Missing character: There is no f (U+0066) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no M (U+004D) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no 6 (U+0036) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no g (U+0067) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no 2 (U+0032) in font nullfont!
+Missing character: There is no 0 (U+0030) in font nullfont!
+Missing character: There is no 1 (U+0031) in font nullfont!
+Missing character: There is no 3 (U+0033) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no h (U+0068) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no p (U+0070) in font nullfont!
+Missing character: There is no : (U+003A) in font nullfont!
+Missing character: There is no / (U+002F) in font nullfont!
+Missing character: There is no / (U+002F) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no x (U+0078) in font nullfont!
+Missing character: There is no f (U+0066) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no m (U+006D) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no / (U+002F) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no / (U+002F) in font nullfont!
+Missing character: There is no 1 (U+0031) in font nullfont!
+Missing character: There is no 0 (U+0030) in font nullfont!
+Missing character: There is no 8 (U+0038) in font nullfont!
+Missing character: There is no 5 (U+0035) in font nullfont!
+Missing character: There is no 9 (U+0039) in font nullfont!
+Missing character: There is no 2 (U+0032) in font nullfont!
+Missing character: There is no 0 (U+0030) in font nullfont!
+Missing character: There is no 9 (U+0039) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no H (U+0048) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no A (U+0041) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no j (U+006A) in font nullfont!
+Missing character: There is no S (U+0053) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no : (U+003A) in font nullfont!
+Missing character: There is no C (U+0043) in font nullfont!
+Missing character: There is no z (U+007A) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no p (U+0070) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no m (U+006D) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no , (U+002C) in font nullfont!
+Missing character: There is no , (U+002C) in font nullfont!
+Missing character: There is no B (U+0042) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no h (U+0068) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no ' (U+0027) in font nullfont!
+Missing character: There is no ' (U+0027) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no K (U+004B) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no ń (U+0144) in font nullfont!
+Missing character: There is no 2 (U+0032) in font nullfont!
+Missing character: There is no 0 (U+0030) in font nullfont!
+Missing character: There is no 1 (U+0031) in font nullfont!
+Missing character: There is no 4 (U+0034) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no I (U+0049) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no M (U+004D) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no v (U+0076) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no , (U+002C) in font nullfont!
+Missing character: There is no K (U+004B) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no S (U+0053) in font nullfont!
+Missing character: There is no h (U+0068) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no b (U+0062) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no v (U+0076) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no , (U+002C) in font nullfont!
+Missing character: There is no L (U+004C) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no G (U+0047) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no b (U+0062) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no h (U+0068) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no v (U+0076) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no : (U+003A) in font nullfont!
+]
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 \bibitem{olsson}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.56 \bibitem{olsson}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.56 \bibitem{olsson}
+                   
+I'm forgetting what you said and using zero instead.
+
+\bibcite{olsson}{0}
+
+Overfull \hbox (19.05pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 Fac-
+ []
+
+
+Overfull \hbox (16.74pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 tors
+ []
+
+
+Overfull \hbox (16.86002pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 that
+ []
+
+
+Overfull \hbox (12.27pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 in-
+ []
+
+
+Overfull \hbox (14.83pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 flu-
+ []
+
+
+Overfull \hbox (18.91002pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 ence
+ []
+
+
+Overfull \hbox (26.58003pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 choice
+ []
+
+
+Overfull \hbox (8.18001pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 of
+ []
+
+
+Overfull \hbox (23.90002pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 travel
+ []
+
+
+Overfull \hbox (22.49pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 mode
+ []
+
+
+Overfull \hbox (8.69pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 in
+ []
+
+
+Overfull \hbox (16.87pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 ma-
+ []
+
+
+Overfull \hbox (12.40001pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 jor
+ []
+
+
+Overfull \hbox (13.17pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 ur-
+ []
+
+
+Overfull \hbox (14.82pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 ban
+ []
+
+
+Overfull \hbox (12.91pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 ar-
+ []
+
+
+Overfull \hbox (16.36002pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 eas.
+ []
+
+
+Overfull \hbox (16.87001pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 The
+ []
+
+
+Overfull \hbox (12.01001pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 at-
+ []
+
+
+Overfull \hbox (20.32002pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 trac-
+ []
+
+
+Overfull \hbox (19.17003pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 tive-
+ []
+
+
+Overfull \hbox (18.4pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 ness
+ []
+
+
+Overfull \hbox (8.18001pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 of
+ []
+
+
+Overfull \hbox (20.71pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 Park
+ []
+
+
+Overfull \hbox (7.67pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 &
+ []
+
+
+Overfull \hbox (22.88002pt too wide) in paragraph at lines 57--60
+\TU/lmr/m/it/10 Ride.
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 \bibitem{gothenburg}
+                       
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.61 \bibitem{gothenburg}
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.61 \bibitem{gothenburg}
+                       
+I'm forgetting what you said and using zero instead.
+
+\bibcite{gothenburg}{0}
+
+Overfull \hbox (14.97pt too wide) in paragraph at lines 62--65
+\TU/lmr/m/it/10 Fy-
+ []
+
+
+Overfull \hbox (15.85pt too wide) in paragraph at lines 62--65
+\TU/lmr/m/it/10 sisk
+ []
+
+
+Overfull \hbox (30.8pt too wide) in paragraph at lines 62--65
+\TU/lmr/m/it/10 planer-
+ []
+
+
+Overfull \hbox (13.29001pt too wide) in paragraph at lines 62--65
+\TU/lmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (12.40001pt too wide) in paragraph at lines 62--65
+\TU/lmr/m/it/10 för
+ []
+
+
+Overfull \hbox (28.38002pt too wide) in paragraph at lines 62--65
+\TU/lmr/m/it/10 kollek-
+ []
+
+
+Overfull \hbox (14.57002pt too wide) in paragraph at lines 62--65
+\TU/lmr/m/it/10 tiv-
+ []
+
+
+Overfull \hbox (22.36002pt too wide) in paragraph at lines 62--65
+\TU/lmr/m/it/10 trafik
+ []
+
+
+Overfull \hbox (26.22pt too wide) in paragraph at lines 62--65
+\TU/lmr/m/it/10 (Fizy-
+ []
+
+
+Overfull \hbox (18.91pt too wide) in paragraph at lines 62--65
+\TU/lmr/m/it/10 czne
+ []
+
+
+Overfull \hbox (48.55pt too wide) in paragraph at lines 62--65
+\TU/lmr/m/it/10 planowanie
+ []
+
+
+Overfull \hbox (25.43001pt too wide) in paragraph at lines 62--65
+\TU/lmr/m/it/10 trans-
+ []
+
+
+Overfull \hbox (22.62001pt too wide) in paragraph at lines 62--65
+\TU/lmr/m/it/10 portu
+ []
+
+
+Overfull \hbox (50.22003pt too wide) in paragraph at lines 62--65
+\TU/lmr/m/it/10 zbiorowego)\nullfont .
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 \bibitem{florida}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.66 \bibitem{florida}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.66 \bibitem{florida}
+                    
+I'm forgetting what you said and using zero instead.
+
+\bibcite{florida}{0}
+
+Overfull \hbox (21.97002pt too wide) in paragraph at lines 67--70
+\TU/lmr/m/it/10 State
+ []
+
+
+Overfull \hbox (24.29001pt too wide) in paragraph at lines 67--70
+\TU/lmr/m/it/10 Park-
+ []
+
+
+Overfull \hbox (19.42pt too wide) in paragraph at lines 67--70
+\TU/lmr/m/it/10 and-
+ []
+
+
+Overfull \hbox (19.81001pt too wide) in paragraph at lines 67--70
+\TU/lmr/m/it/10 Ride
+ []
+
+
+Overfull \hbox (22.75002pt too wide) in paragraph at lines 67--70
+\TU/lmr/m/it/10 guide\nullfont .
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71 \bibitem{guide}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.71 \bibitem{guide}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.71 \bibitem{guide}
+                  
+I'm forgetting what you said and using zero instead.
+
+\bibcite{guide}{0}
+
+Overfull \hbox (36.43001pt too wide) in paragraph at lines 72--75
+\TU/lmr/m/it/10 GUIDE:
+ []
+
+
+Overfull \hbox (23.90001pt too wide) in paragraph at lines 72--75
+\TU/lmr/m/it/10 group
+ []
+
+
+Overfull \hbox (12.40001pt too wide) in paragraph at lines 72--75
+\TU/lmr/m/it/10 for
+ []
+
+
+Overfull \hbox (13.17pt too wide) in paragraph at lines 72--75
+\TU/lmr/m/it/10 ur-
+ []
+
+
+Overfull \hbox (14.82pt too wide) in paragraph at lines 72--75
+\TU/lmr/m/it/10 ban
+ []
+
+
+Overfull \hbox (12.27pt too wide) in paragraph at lines 72--75
+\TU/lmr/m/it/10 in-
+ []
+
+
+Overfull \hbox (15.72002pt too wide) in paragraph at lines 72--75
+\TU/lmr/m/it/10 ter-
+ []
+
+
+Overfull \hbox (33.73001pt too wide) in paragraph at lines 72--75
+\TU/lmr/m/it/10 changes
+ []
+
+
+Overfull \hbox (13.29001pt too wide) in paragraph at lines 72--75
+\TU/lmr/m/it/10 de-
+ []
+
+
+Overfull \hbox (15.34001pt too wide) in paragraph at lines 72--75
+\TU/lmr/m/it/10 vel-
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 72--75
+\TU/lmr/m/it/10 op-
+ []
+
+
+Overfull \hbox (21.72pt too wide) in paragraph at lines 72--75
+\TU/lmr/m/it/10 ment
+ []
+
+
+Overfull \hbox (15.84pt too wide) in paragraph at lines 72--75
+\TU/lmr/m/it/10 and
+ []
+
+
+Overfull \hbox (20.45001pt too wide) in paragraph at lines 72--75
+\TU/lmr/m/it/10 eval-
+ []
+
+
+Overfull \hbox (8.95pt too wide) in paragraph at lines 72--75
+\TU/lmr/m/it/10 u-
+ []
+
+
+Overfull \hbox (8.69pt too wide) in paragraph at lines 72--75
+\TU/lmr/m/it/10 a-
+ []
+
+
+Overfull \hbox (17.12001pt too wide) in paragraph at lines 72--75
+\TU/lmr/m/it/10 tion\nullfont .
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76 \bibitem{prawo-lewisa}
+                         
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.76 \bibitem{prawo-lewisa}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.76 \bibitem{prawo-lewisa}
+                         
+I'm forgetting what you said and using zero instead.
+
+\bibcite{prawo-lewisa}{0}
+! Undefined control sequence.
+l.80 	\url
+        {http://www.zm.org.pl/?a=lewis-mogridge-14-00_wprowadzenie}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.80 ...ttp://www.zm.org.pl/?a=lewis-mogridge-14-00_
+                                                  wprowadzenie}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.80 ...org.pl/?a=lewis-mogridge-14-00_wprowadzenie}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.81 
+   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (27.35pt too wide) in paragraph at lines 77--81
+\TU/lmr/m/it/10 Prawo
+ []
+
+
+Overfull \hbox (32.85002pt too wide) in paragraph at lines 77--81
+\TU/lmr/m/it/10 Lewisa-
+ []
+
+
+Overfull \hbox (47.95004pt too wide) in paragraph at lines 77--81
+\TU/lmr/m/it/10 Mogridge’a
+ []
+
+
+Overfull \hbox (6.64pt too wide) in paragraph at lines 77--81
+\TU/lmr/m/it/10 w
+ []
+
+
+Overfull \hbox (35.42pt too wide) in paragraph at lines 77--81
+\TU/lmr/m/it/10 Warsza-
+ []
+
+
+Overfull \hbox (14.31001pt too wide) in paragraph at lines 77--81
+\TU/lmr/m/it/10 wie
+ []
+
+
+Overfull \hbox (3.58pt too wide) in paragraph at lines 77--81
+\TU/lmr/m/it/10 -
+ []
+
+
+Overfull \hbox (49.70001pt too wide) in paragraph at lines 77--81
+\TU/lmr/m/it/10 wprowadze-
+ []
+
+
+Overfull \hbox (13.29001pt too wide) in paragraph at lines 77--81
+\TU/lmr/m/it/10 nie\nullfont .
+ []
+
+
+Overfull \hbox (62.91057pt too wide) in paragraph at lines 77--81
+http://www.zm.org.pl/?a=lewis-mogridge-14-00$[][]\OML/cmm/m/it/10 prowadzenie$ 
+
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 \bibitem{tomtom}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.82 \bibitem{tomtom}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.82 \bibitem{tomtom}
+                   
+I'm forgetting what you said and using zero instead.
+
+\bibcite{tomtom}{0}
+! Undefined control sequence.
+l.84 	\url
+        {https://www.tomtom.com/en_gb/trafficindex/}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.84 	\url{https://www.tomtom.com/en_
+                                   gb/trafficindex/}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.84 ...{https://www.tomtom.com/en_gb/trafficindex/}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.85 
+   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (77.3716pt too wide) in paragraph at lines 83--85
+https://www.tomtom.com/en$[][]\OML/cmm/m/it/10 b=trafficindex=$ 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 \bibitem{oxford2}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.86 \bibitem{oxford2}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.86 \bibitem{oxford2}
+                    
+I'm forgetting what you said and using zero instead.
+
+\bibcite{oxford2}{0}
+! Undefined control sequence.
+l.88 	\url
+        {https://www.oxfordshire.gov.uk/cms/public-site/park-and-ride}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 \bibitem{rps}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.90 \bibitem{rps}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.90 \bibitem{rps}
+                
+I'm forgetting what you said and using zero instead.
+
+\bibcite{rps}{0}
+
+Overfull \hbox (16.87001pt too wide) in paragraph at lines 91--94
+\TU/lmr/m/it/10 The
+ []
+
+
+Overfull \hbox (11.25002pt too wide) in paragraph at lines 91--94
+\TU/lmr/m/it/10 ef-
+ []
+
+
+Overfull \hbox (15.34003pt too wide) in paragraph at lines 91--94
+\TU/lmr/m/it/10 fec-
+ []
+
+
+Overfull \hbox (19.17003pt too wide) in paragraph at lines 91--94
+\TU/lmr/m/it/10 tive-
+ []
+
+
+Overfull \hbox (18.4pt too wide) in paragraph at lines 91--94
+\TU/lmr/m/it/10 ness
+ []
+
+
+Overfull \hbox (15.84pt too wide) in paragraph at lines 91--94
+\TU/lmr/m/it/10 and
+ []
+
+
+Overfull \hbox (17.12999pt too wide) in paragraph at lines 91--94
+\TU/lmr/m/it/10 sus-
+ []
+
+
+Overfull \hbox (20.70001pt too wide) in paragraph at lines 91--94
+\TU/lmr/m/it/10 tain-
+ []
+
+
+Overfull \hbox (18.92001pt too wide) in paragraph at lines 91--94
+\TU/lmr/m/it/10 abil-
+ []
+
+
+Overfull \hbox (11.25002pt too wide) in paragraph at lines 91--94
+\TU/lmr/m/it/10 ity
+ []
+
+
+Overfull \hbox (8.18001pt too wide) in paragraph at lines 91--94
+\TU/lmr/m/it/10 of
+ []
+
+
+Overfull \hbox (20.71pt too wide) in paragraph at lines 91--94
+\TU/lmr/m/it/10 Park
+ []
+
+
+Overfull \hbox (15.84pt too wide) in paragraph at lines 91--94
+\TU/lmr/m/it/10 and
+ []
+
+
+Overfull \hbox (19.81001pt too wide) in paragraph at lines 91--94
+\TU/lmr/m/it/10 Ride\nullfont .
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95 \bibitem{rybczynska}
+                       
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.95 \bibitem{rybczynska}
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.95 \bibitem{rybczynska}
+                       
+I'm forgetting what you said and using zero instead.
+
+\bibcite{rybczynska}{0}
+! Undefined control sequence.
+l.98 	\url
+        {http://www.transport.um.warszawa.pl/transport-publiczny/system-stra...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (18.15pt too wide) in paragraph at lines 96--99
+\TU/lmr/m/it/10 Sys-
+ []
+
+
+Overfull \hbox (16.1pt too wide) in paragraph at lines 96--99
+\TU/lmr/m/it/10 tem
+ []
+
+
+Overfull \hbox (27.73003pt too wide) in paragraph at lines 96--99
+\TU/lmr/m/it/10 strate-
+ []
+
+
+Overfull \hbox (36.55002pt too wide) in paragraph at lines 96--99
+\TU/lmr/m/it/10 gicznych
+ []
+
+
+Overfull \hbox (22.11002pt too wide) in paragraph at lines 96--99
+\TU/lmr/m/it/10 park-
+ []
+
+
+Overfull \hbox (25.04001pt too wide) in paragraph at lines 96--99
+\TU/lmr/m/it/10 ingów
+ []
+
+
+Overfull \hbox (25.61pt too wide) in paragraph at lines 96--99
+\TU/lmr/m/it/10 ”Park
+ []
+
+
+Overfull \hbox (15.84pt too wide) in paragraph at lines 96--99
+\TU/lmr/m/it/10 and
+ []
+
+
+Overfull \hbox (24.71pt too wide) in paragraph at lines 96--99
+\TU/lmr/m/it/10 Ride”
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 \bibitem{eurotest}
+                      
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.100 \bibitem{eurotest}
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.100 \bibitem{eurotest}
+                      
+I'm forgetting what you said and using zero instead.
+
+\bibcite{eurotest}{0}
+
+Overfull \hbox (20.71pt too wide) in paragraph at lines 101--103
+\TU/lmr/m/it/10 Park
+ []
+
+
+Overfull \hbox (7.67pt too wide) in paragraph at lines 101--103
+\TU/lmr/m/it/10 &
+ []
+
+
+Overfull \hbox (22.88002pt too wide) in paragraph at lines 101--103
+\TU/lmr/m/it/10 Ride;
+ []
+
+
+Overfull \hbox (21.97002pt too wide) in paragraph at lines 101--103
+\TU/lmr/m/it/10 State
+ []
+
+
+Overfull \hbox (8.18001pt too wide) in paragraph at lines 101--103
+\TU/lmr/m/it/10 of
+ []
+
+
+Overfull \hbox (13.03001pt too wide) in paragraph at lines 101--103
+\TU/lmr/m/it/10 the
+ []
+
+
+Overfull \hbox (14.46pt too wide) in paragraph at lines 101--103
+\TU/lmr/m/it/10 Art
+ []
+
+
+Overfull \hbox (8.69pt too wide) in paragraph at lines 101--103
+\TU/lmr/m/it/10 in
+ []
+
+
+Overfull \hbox (15.73pt too wide) in paragraph at lines 101--103
+\TU/lmr/m/it/10 Eu-
+ []
+
+
+Overfull \hbox (18.02002pt too wide) in paragraph at lines 101--103
+\TU/lmr/m/it/10 rope\nullfont .
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104 \bibitem{dijk}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.104 \bibitem{dijk}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.104 \bibitem{dijk}
+                  
+I'm forgetting what you said and using zero instead.
+
+\bibcite{dijk}{0}
+
+Overfull \hbox (18.03pt too wide) in paragraph at lines 105--108
+\TU/lmr/m/it/10 Pol-
+ []
+
+
+Overfull \hbox (12.53001pt too wide) in paragraph at lines 105--108
+\TU/lmr/m/it/10 icy
+ []
+
+
+Overfull \hbox (28.76001pt too wide) in paragraph at lines 105--108
+\TU/lmr/m/it/10 frames
+ []
+
+
+Overfull \hbox (8.18001pt too wide) in paragraph at lines 105--108
+\TU/lmr/m/it/10 of
+ []
+
+
+Overfull \hbox (24.29001pt too wide) in paragraph at lines 105--108
+\TU/lmr/m/it/10 Park-
+ []
+
+
+Overfull \hbox (19.42pt too wide) in paragraph at lines 105--108
+\TU/lmr/m/it/10 and-
+ []
+
+
+Overfull \hbox (19.81001pt too wide) in paragraph at lines 105--108
+\TU/lmr/m/it/10 Ride
+ []
+
+
+Overfull \hbox (8.69pt too wide) in paragraph at lines 105--108
+\TU/lmr/m/it/10 in
+ []
+
+
+Overfull \hbox (15.73pt too wide) in paragraph at lines 105--108
+\TU/lmr/m/it/10 Eu-
+ []
+
+
+Overfull \hbox (18.02002pt too wide) in paragraph at lines 105--108
+\TU/lmr/m/it/10 rope\nullfont .
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.109 \bibitem{icaen}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.109 \bibitem{icaen}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.109 \bibitem{icaen}
+                   
+I'm forgetting what you said and using zero instead.
+
+\bibcite{icaen}{0}
+
+Overfull \hbox (26.09003pt too wide) in paragraph at lines 110--112
+\TU/lmr/m/it/10 White
+ []
+
+
+Overfull \hbox (21.35pt too wide) in paragraph at lines 110--112
+\TU/lmr/m/it/10 Book
+ []
+
+
+Overfull \hbox (8.18001pt too wide) in paragraph at lines 110--112
+\TU/lmr/m/it/10 of
+ []
+
+
+Overfull \hbox (13.03001pt too wide) in paragraph at lines 110--112
+\TU/lmr/m/it/10 the
+ []
+
+
+Overfull \hbox (18.65999pt too wide) in paragraph at lines 110--112
+\TU/lmr/m/it/10 Sus-
+ []
+
+
+Overfull \hbox (20.70001pt too wide) in paragraph at lines 110--112
+\TU/lmr/m/it/10 tain-
+ []
+
+
+Overfull \hbox (16.87001pt too wide) in paragraph at lines 110--112
+\TU/lmr/m/it/10 able
+ []
+
+
+Overfull \hbox (17.66pt too wide) in paragraph at lines 110--112
+\TU/lmr/m/it/10 Mo-
+ []
+
+
+Overfull \hbox (13.81001pt too wide) in paragraph at lines 110--112
+\TU/lmr/m/it/10 bil-
+ []
+
+
+Overfull \hbox (11.25002pt too wide) in paragraph at lines 110--112
+\TU/lmr/m/it/10 ity
+ []
+
+
+Overfull \hbox (8.69pt too wide) in paragraph at lines 110--112
+\TU/lmr/m/it/10 in
+ []
+
+
+Overfull \hbox (13.03001pt too wide) in paragraph at lines 110--112
+\TU/lmr/m/it/10 the
+ []
+
+
+Overfull \hbox (20.84001pt too wide) in paragraph at lines 110--112
+\TU/lmr/m/it/10 early
+ []
+
+
+Overfull \hbox (18.71999pt too wide) in paragraph at lines 110--112
+\TU/lmr/m/it/10 XXI
+ []
+
+
+Overfull \hbox (17.89001pt too wide) in paragraph at lines 110--112
+\TU/lmr/m/it/10 cen-
+ []
+
+
+Overfull \hbox (17.77pt too wide) in paragraph at lines 110--112
+\TU/lmr/m/it/10 tury\nullfont . 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113 \bibitem{standardy_szwajcarskie}
+                                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.113 \bibitem{standardy_szwajcarskie}
+                                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.113 \bibitem{standardy_szwajcarskie}
+                                    
+I'm forgetting what you said and using zero instead.
+
+\bibcite{standardy_szwajcarskie}{0}
+
+Overfull \hbox (23.25pt too wide) in paragraph at lines 114--117
+\TU/lmr/m/it/10 Stan-
+ []
+
+
+Overfull \hbox (23.90001pt too wide) in paragraph at lines 114--117
+\TU/lmr/m/it/10 dardy
+ []
+
+
+Overfull \hbox (23.51pt too wide) in paragraph at lines 114--117
+\TU/lmr/m/it/10 szwa-
+ []
+
+
+Overfull \hbox (6.65001pt too wide) in paragraph at lines 114--117
+\TU/lmr/m/it/10 j-
+ []
+
+
+Overfull \hbox (29.78003pt too wide) in paragraph at lines 114--117
+\TU/lmr/m/it/10 carskie
+ []
+
+
+Overfull \hbox (13.29pt too wide) in paragraph at lines 114--117
+\TU/lmr/m/it/10 dla
+ []
+
+
+Overfull \hbox (30.27pt too wide) in paragraph at lines 114--117
+\TU/lmr/m/it/10 węzłów
+ []
+
+
+Overfull \hbox (21.6pt too wide) in paragraph at lines 114--117
+\TU/lmr/m/it/10 prze-
+ []
+
+
+Overfull \hbox (10.74pt too wide) in paragraph at lines 114--117
+\TU/lmr/m/it/10 si-
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 114--117
+\TU/lmr/m/it/10 ad-
+ []
+
+
+Overfull \hbox (30.92001pt too wide) in paragraph at lines 114--117
+\TU/lmr/m/it/10 kowych\nullfont .
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 \bibitem{ustawa_transport}
+                              
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.118 \bibitem{ustawa_transport}
+                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.118 \bibitem{ustawa_transport}
+                              
+I'm forgetting what you said and using zero instead.
+
+\bibcite{ustawa_transport}{0}
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121 \bibitem{rozporzadzenie_drogi}
+                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.121 \bibitem{rozporzadzenie_drogi}
+                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.121 \bibitem{rozporzadzenie_drogi}
+                                  
+I'm forgetting what you said and using zero instead.
+
+\bibcite{rozporzadzenie_drogi}{0}
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125 \bibitem{tp1}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.125 \bibitem{tp1}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.125 \bibitem{tp1}
+                 
+I'm forgetting what you said and using zero instead.
+
+\bibcite{tp1}{0}
+
+Overfull \hbox (14.96pt too wide) in paragraph at lines 126--127
+\TU/lmr/m/it/10 Jak
+ []
+
+
+Overfull \hbox (12.78pt too wide) in paragraph at lines 126--127
+\TU/lmr/m/it/10 za-
+ []
+
+
+Overfull \hbox (17.51001pt too wide) in paragraph at lines 126--127
+\TU/lmr/m/it/10 pro-
+ []
+
+
+Overfull \hbox (15.85002pt too wide) in paragraph at lines 126--127
+\TU/lmr/m/it/10 jek-
+ []
+
+
+Overfull \hbox (24.78001pt too wide) in paragraph at lines 126--127
+\TU/lmr/m/it/10 tować
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 126--127
+\TU/lmr/m/it/10 do-
+ []
+
+
+Overfull \hbox (13.68001pt too wide) in paragraph at lines 126--127
+\TU/lmr/m/it/10 bry
+ []
+
+
+Overfull \hbox (23.12001pt too wide) in paragraph at lines 126--127
+\TU/lmr/m/it/10 węzeł
+ []
+
+
+Overfull \hbox (21.6pt too wide) in paragraph at lines 126--127
+\TU/lmr/m/it/10 prze-
+ []
+
+
+Overfull \hbox (10.74pt too wide) in paragraph at lines 126--127
+\TU/lmr/m/it/10 si-
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 126--127
+\TU/lmr/m/it/10 ad-
+ []
+
+
+Overfull \hbox (21.21pt too wide) in paragraph at lines 126--127
+\TU/lmr/m/it/10 kowy\nullfont ,
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.128 \bibitem{zaluski}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.128 \bibitem{zaluski}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.128 \bibitem{zaluski}
+                     
+I'm forgetting what you said and using zero instead.
+
+\bibcite{zaluski}{0}
+
+Overfull \hbox (18.40001pt too wide) in paragraph at lines 129--131
+\TU/lmr/m/it/10 Zin-
+ []
+
+
+Overfull \hbox (11.50002pt too wide) in paragraph at lines 129--131
+\TU/lmr/m/it/10 te-
+ []
+
+
+Overfull \hbox (35.39001pt too wide) in paragraph at lines 129--131
+\TU/lmr/m/it/10 growane
+ []
+
+
+Overfull \hbox (23.38pt too wide) in paragraph at lines 129--131
+\TU/lmr/m/it/10 węzły
+ []
+
+
+Overfull \hbox (21.6pt too wide) in paragraph at lines 129--131
+\TU/lmr/m/it/10 prze-
+ []
+
+
+Overfull \hbox (10.74pt too wide) in paragraph at lines 129--131
+\TU/lmr/m/it/10 si-
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 129--131
+\TU/lmr/m/it/10 ad-
+ []
+
+
+Overfull \hbox (20.95001pt too wide) in paragraph at lines 129--131
+\TU/lmr/m/it/10 kowe
+ []
+
+
+Overfull \hbox (18.28pt too wide) in paragraph at lines 129--131
+\TU/lmr/m/it/10 przy
+ []
+
+
+Overfull \hbox (31.05pt too wide) in paragraph at lines 129--131
+\TU/lmr/m/it/10 małych
+ []
+
+
+Overfull \hbox (24.66pt too wide) in paragraph at lines 129--131
+\TU/lmr/m/it/10 dwor-
+ []
+
+
+Overfull \hbox (18.91002pt too wide) in paragraph at lines 129--131
+\TU/lmr/m/it/10 cach
+ []
+
+
+Overfull \hbox (20.45001pt too wide) in paragraph at lines 129--131
+\TU/lmr/m/it/10 kole-
+ []
+
+
+Overfull \hbox (29.39001pt too wide) in paragraph at lines 129--131
+\TU/lmr/m/it/10 jowych\nullfont ,
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.132 \bibitem{kazimierczyk}
+                          
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.132 \bibitem{kazimierczyk}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.132 \bibitem{kazimierczyk}
+                          
+I'm forgetting what you said and using zero instead.
+
+\bibcite{kazimierczyk}{0}
+
+Overfull \hbox (21.49pt too wide) in paragraph at lines 133--134
+\TU/lmr/m/it/10 Kon-
+ []
+
+
+Overfull \hbox (26.07004pt too wide) in paragraph at lines 133--134
+\TU/lmr/m/it/10 cepcja
+ []
+
+
+Overfull \hbox (44.59001pt too wide) in paragraph at lines 133--134
+\TU/lmr/m/it/10 współczes-
+ []
+
+
+Overfull \hbox (19.42001pt too wide) in paragraph at lines 133--134
+\TU/lmr/m/it/10 nego
+ []
+
+
+Overfull \hbox (23.63pt too wide) in paragraph at lines 133--134
+\TU/lmr/m/it/10 węzła
+ []
+
+
+Overfull \hbox (21.6pt too wide) in paragraph at lines 133--134
+\TU/lmr/m/it/10 prze-
+ []
+
+
+Overfull \hbox (10.74pt too wide) in paragraph at lines 133--134
+\TU/lmr/m/it/10 si-
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 133--134
+\TU/lmr/m/it/10 ad-
+ []
+
+
+Overfull \hbox (30.15002pt too wide) in paragraph at lines 133--134
+\TU/lmr/m/it/10 kowego
+ []
+
+
+Overfull \hbox (5.11pt too wide) in paragraph at lines 133--134
+\TU/lmr/m/it/10 --
+ []
+
+
+Overfull \hbox (22.11002pt too wide) in paragraph at lines 133--134
+\TU/lmr/m/it/10 prak-
+ []
+
+
+Overfull \hbox (11.76001pt too wide) in paragraph at lines 133--134
+\TU/lmr/m/it/10 ty-
+ []
+
+
+Overfull \hbox (19.17pt too wide) in paragraph at lines 133--134
+\TU/lmr/m/it/10 czny
+ []
+
+
+Overfull \hbox (36.29001pt too wide) in paragraph at lines 133--134
+\TU/lmr/m/it/10 przykład
+ []
+
+
+Overfull \hbox (40.51001pt too wide) in paragraph at lines 133--134
+\TU/lmr/m/it/10 rozwiąza-
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 133--134
+\TU/lmr/m/it/10 nia\nullfont ,
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135 \bibitem{young}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.135 \bibitem{young}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.135 \bibitem{young}
+                   
+I'm forgetting what you said and using zero instead.
+
+\bibcite{young}{0}
+
+Overfull \hbox (23.28pt too wide) in paragraph at lines 136--137
+\TU/lmr/m/it/10 Man-
+ []
+
+
+Overfull \hbox (13.04pt too wide) in paragraph at lines 136--137
+\TU/lmr/m/it/10 ual
+ []
+
+
+Overfull \hbox (12.40001pt too wide) in paragraph at lines 136--137
+\TU/lmr/m/it/10 for
+ []
+
+
+Overfull \hbox (31.82004pt too wide) in paragraph at lines 136--137
+\TU/lmr/m/it/10 Streets.
+ []
+
+
+Overfull \hbox (20.07pt too wide) in paragraph at lines 136--137
+\TU/lmr/m/it/10 Lon-
+ []
+
+
+Overfull \hbox (18.91pt too wide) in paragraph at lines 136--137
+\TU/lmr/m/it/10 don.\nullfont ,
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138 \bibitem{guidelines_washington}
+                                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.138 \bibitem{guidelines_washington}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.138 \bibitem{guidelines_washington}
+                                   
+I'm forgetting what you said and using zero instead.
+
+\bibcite{guidelines_washington}{0}
+
+Overfull \hbox (29.47002pt too wide) in paragraph at lines 139--140
+\TU/lmr/m/it/10 Guide-
+ []
+
+
+Overfull \hbox (19.94pt too wide) in paragraph at lines 139--140
+\TU/lmr/m/it/10 lines
+ []
+
+
+Overfull \hbox (12.40001pt too wide) in paragraph at lines 139--140
+\TU/lmr/m/it/10 for
+ []
+
+
+Overfull \hbox (16.1pt too wide) in paragraph at lines 139--140
+\TU/lmr/m/it/10 sta-
+ []
+
+
+Overfull \hbox (17.12001pt too wide) in paragraph at lines 139--140
+\TU/lmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (15.08002pt too wide) in paragraph at lines 139--140
+\TU/lmr/m/it/10 site
+ []
+
+
+Overfull \hbox (15.84pt too wide) in paragraph at lines 139--140
+\TU/lmr/m/it/10 and
+ []
+
+
+Overfull \hbox (13.29001pt too wide) in paragraph at lines 139--140
+\TU/lmr/m/it/10 ac-
+ []
+
+
+Overfull \hbox (16.87001pt too wide) in paragraph at lines 139--140
+\TU/lmr/m/it/10 cess
+ []
+
+
+Overfull \hbox (21.98pt too wide) in paragraph at lines 139--140
+\TU/lmr/m/it/10 plan-
+ []
+
+
+Overfull \hbox (18.91pt too wide) in paragraph at lines 139--140
+\TU/lmr/m/it/10 ning\nullfont ,
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.141 \bibitem{standardy_wroclaw}
+                               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.141 \bibitem{standardy_wroclaw}
+                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.141 \bibitem{standardy_wroclaw}
+                               
+I'm forgetting what you said and using zero instead.
+
+\bibcite{standardy_wroclaw}{0}
+
+Overfull \hbox (53.43004pt too wide) in paragraph at lines 142--143
+\TU/lmr/m/it/10 Wrocławskie
+ []
+
+
+Overfull \hbox (21.72pt too wide) in paragraph at lines 142--143
+\TU/lmr/m/it/10 stan-
+ []
+
+
+Overfull \hbox (23.90001pt too wide) in paragraph at lines 142--143
+\TU/lmr/m/it/10 dardy
+ []
+
+
+Overfull \hbox (16.36pt too wide) in paragraph at lines 142--143
+\TU/lmr/m/it/10 ksz-
+ []
+
+
+Overfull \hbox (15.20001pt too wide) in paragraph at lines 142--143
+\TU/lmr/m/it/10 tał-
+ []
+
+
+Overfull \hbox (23.76001pt too wide) in paragraph at lines 142--143
+\TU/lmr/m/it/10 towa-
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 142--143
+\TU/lmr/m/it/10 nia
+ []
+
+
+Overfull \hbox (47.03001pt too wide) in paragraph at lines 142--143
+\TU/lmr/m/it/10 przestrzeni
+ []
+
+
+Overfull \hbox (26.59001pt too wide) in paragraph at lines 142--143
+\TU/lmr/m/it/10 miejs-
+ []
+
+
+Overfull \hbox (17.38002pt too wide) in paragraph at lines 142--143
+\TU/lmr/m/it/10 kich
+ []
+
+
+Overfull \hbox (21.86pt too wide) in paragraph at lines 142--143
+\TU/lmr/m/it/10 przy-
+ []
+
+
+Overfull \hbox (32.46pt too wide) in paragraph at lines 142--143
+\TU/lmr/m/it/10 jaznych
+ []
+
+
+Overfull \hbox (34.0pt too wide) in paragraph at lines 142--143
+\TU/lmr/m/it/10 pieszym\nullfont ,
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.144 \bibitem{standardy_chodnik}
+                               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.144 \bibitem{standardy_chodnik}
+                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.144 \bibitem{standardy_chodnik}
+                               
+I'm forgetting what you said and using zero instead.
+
+\bibcite{standardy_chodnik}{0}
+
+Overfull \hbox (19.19002pt too wide) in paragraph at lines 145--146
+\TU/lmr/m/it/10 Kat-
+ []
+
+
+Overfull \hbox (8.69pt too wide) in paragraph at lines 145--146
+\TU/lmr/m/it/10 a-
+ []
+
+
+Overfull \hbox (11.76001pt too wide) in paragraph at lines 145--146
+\TU/lmr/m/it/10 log
+ []
+
+
+Overfull \hbox (23.25pt too wide) in paragraph at lines 145--146
+\TU/lmr/m/it/10 Stan-
+ []
+
+
+Overfull \hbox (30.79001pt too wide) in paragraph at lines 145--146
+\TU/lmr/m/it/10 dardów
+ []
+
+
+Overfull \hbox (22.76pt too wide) in paragraph at lines 145--146
+\TU/lmr/m/it/10 Naw-
+ []
+
+
+Overfull \hbox (34.38002pt too wide) in paragraph at lines 145--146
+\TU/lmr/m/it/10 ierzchni
+ []
+
+
+Overfull \hbox (25.56001pt too wide) in paragraph at lines 145--146
+\TU/lmr/m/it/10 Chod-
+ []
+
+
+Overfull \hbox (25.04001pt too wide) in paragraph at lines 145--146
+\TU/lmr/m/it/10 ników
+ []
+
+
+Overfull \hbox (13.29pt too wide) in paragraph at lines 145--146
+\TU/lmr/m/it/10 dla
+ []
+
+
+Overfull \hbox (45.25003pt too wide) in paragraph at lines 145--146
+\TU/lmr/m/it/10 Wrocławia\nullfont ,
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.147 \bibitem{raport-vip}
+                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.147 \bibitem{raport-vip}
+                        
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.147 \bibitem{raport-vip}
+                        
+I'm forgetting what you said and using zero instead.
+
+\bibcite{raport-vip}{0}
+
+Overfull \hbox (18.94pt too wide) in paragraph at lines 148--149
+\TU/lmr/m/it/10 Ksz-
+ []
+
+
+Overfull \hbox (15.20001pt too wide) in paragraph at lines 148--149
+\TU/lmr/m/it/10 tał-
+ []
+
+
+Overfull \hbox (33.47002pt too wide) in paragraph at lines 148--149
+\TU/lmr/m/it/10 towanie
+ []
+
+
+Overfull \hbox (21.86pt too wide) in paragraph at lines 148--149
+\TU/lmr/m/it/10 przy-
+ []
+
+
+Overfull \hbox (32.46pt too wide) in paragraph at lines 148--149
+\TU/lmr/m/it/10 jaznych
+ []
+
+
+Overfull \hbox (13.29pt too wide) in paragraph at lines 148--149
+\TU/lmr/m/it/10 dla
+ []
+
+
+Overfull \hbox (35.53001pt too wide) in paragraph at lines 148--149
+\TU/lmr/m/it/10 pieszych
+ []
+
+
+Overfull \hbox (30.27pt too wide) in paragraph at lines 148--149
+\TU/lmr/m/it/10 węzłów
+ []
+
+
+Overfull \hbox (21.6pt too wide) in paragraph at lines 148--149
+\TU/lmr/m/it/10 prze-
+ []
+
+
+Overfull \hbox (10.74pt too wide) in paragraph at lines 148--149
+\TU/lmr/m/it/10 si-
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 148--149
+\TU/lmr/m/it/10 ad-
+ []
+
+
+Overfull \hbox (30.92001pt too wide) in paragraph at lines 148--149
+\TU/lmr/m/it/10 kowych
+ []
+
+
+Overfull \hbox (6.64pt too wide) in paragraph at lines 148--149
+\TU/lmr/m/it/10 w
+ []
+
+
+Overfull \hbox (23.52pt too wide) in paragraph at lines 148--149
+\TU/lmr/m/it/10 mieś-
+ []
+
+
+Overfull \hbox (12.27002pt too wide) in paragraph at lines 148--149
+\TU/lmr/m/it/10 cie\nullfont ,
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.150 \bibitem{makuch}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.150 \bibitem{makuch}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.150 \bibitem{makuch}
+                    
+I'm forgetting what you said and using zero instead.
+
+\bibcite{makuch}{0}
+! Undefined control sequence.
+l.151 ...je Miejskie, Politechnika Wrocławska, \url
+                                                  {http://www.zits.pwr.wroc....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.151 ...url{http://www.zits.pwr.wroc.pl/makuch/kmm_
+                                                  W1.pdf}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.151 ...p://www.zits.pwr.wroc.pl/makuch/kmm_W1.pdf}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.152 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (31.41675pt too wide) in paragraph at lines 151--152
+http://www.zits.pwr.wroc.pl/makuch/kmm$[][]\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :p
+df$ 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.155 	\bibitem{portal_gdansk}
+                            
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.155 	\bibitem{portal_gdansk}
+                            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.155 	\bibitem{portal_gdansk}
+                            
+I'm forgetting what you said and using zero instead.
+
+\bibcite{portal_gdansk}{0}
+! Undefined control sequence.
+l.156 ... Miasta Gdańska, inwestycje miejskie, \url
+                                                  {http://www.gdansk.pl/inwe...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.158 	\bibitem{gazeta_gdansk}
+                            
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.158 	\bibitem{gazeta_gdansk}
+                            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.158 	\bibitem{gazeta_gdansk}
+                            
+I'm forgetting what you said and using zero instead.
+
+\bibcite{gazeta_gdansk}{0}
+! Undefined control sequence.
+l.159 ...ek Metropolitarny'' nr 8, lipiec 2013, \url
+                                                  {http://www.zkmgdynia.pl/a...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.159 ... 2013, \url{http://www.zkmgdynia.pl/admin/_
+                                                  _pliki__/290x400_x8_mzkzg_...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+_
+l.159 ...2013, \url{http://www.zkmgdynia.pl/admin/__
+                                                  pliki__/290x400_x8_mzkzg_P...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+! Missing { inserted.
+<to be read again> 
+_
+l.159 ...url{http://www.zkmgdynia.pl/admin/__pliki__
+                                                  /290x400_x8_mzkzg_Przystan...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.160 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.160 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.160 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (22.63pt too wide) in paragraph at lines 159--160
+\TU/lmr/m/it/10 ŁOŚ,
+ []
+
+
+Overfull \hbox (19.18001pt too wide) in paragraph at lines 159--160
+\TU/lmr/m/it/10 czyli
+ []
+
+
+Overfull \hbox (22.23pt too wide) in paragraph at lines 159--160
+\TU/lmr/m/it/10 nowy
+ []
+
+
+Overfull \hbox (25.70001pt too wide) in paragraph at lines 159--160
+\TU/lmr/m/it/10 Węzeł
+ []
+
+
+Overfull \hbox (13.06pt too wide) in paragraph at lines 159--160
+\TU/lmr/m/it/10 In-
+ []
+
+
+Overfull \hbox (11.50002pt too wide) in paragraph at lines 159--160
+\TU/lmr/m/it/10 te-
+ []
+
+
+Overfull \hbox (17.00002pt too wide) in paragraph at lines 159--160
+\TU/lmr/m/it/10 gra-
+ []
+
+
+Overfull \hbox (23.01001pt too wide) in paragraph at lines 159--160
+\TU/lmr/m/it/10 cyjny
+ []
+
+
+Overfull \hbox (13.29001pt too wide) in paragraph at lines 159--160
+\TU/lmr/m/it/10 ko-
+ []
+
+
+Overfull \hbox (17.12999pt too wide) in paragraph at lines 159--160
+\TU/lmr/m/it/10 mu-
+ []
+
+
+Overfull \hbox (29.14003pt too wide) in paragraph at lines 159--160
+\TU/lmr/m/it/10 nikacji
+ []
+
+
+Overfull \hbox (41.42004pt too wide) in paragraph at lines 159--160
+\TU/lmr/m/it/10 miejskiej:
+ []
+
+
+Overfull \hbox (18.54001pt too wide) in paragraph at lines 159--160
+\TU/lmr/m/it/10 Łos-
+ []
+
+
+Overfull \hbox (18.65001pt too wide) in paragraph at lines 159--160
+\TU/lmr/m/it/10 tow-
+ []
+
+
+Overfull \hbox (11.76003pt too wide) in paragraph at lines 159--160
+\TU/lmr/m/it/10 ice
+ []
+
+
+Overfull \hbox (5.11pt too wide) in paragraph at lines 159--160
+\TU/lmr/m/it/10 –
+ []
+
+
+Overfull \hbox (23.51001pt too wide) in paragraph at lines 159--160
+\TU/lmr/m/it/10 Świę-
+ []
+
+
+Overfull \hbox (40.00002pt too wide) in paragraph at lines 159--160
+\TU/lmr/m/it/10 tokrzyska\nullfont ,
+ []
+
+
+Overfull \hbox (126.82957pt too wide) in paragraph at lines 159--160
+http://www.zkmgdynia.pl/admin/$[][]$ 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.161 	\bibitem{opracowanie_gdansk}
+                                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.161 	\bibitem{opracowanie_gdansk}
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.161 	\bibitem{opracowanie_gdansk}
+                                 
+I'm forgetting what you said and using zero instead.
+
+\bibcite{opracowanie_gdansk}{0}
+
+Overfull \hbox (36.04pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 Studium
+ []
+
+
+Overfull \hbox (30.41pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 wykon-
+ []
+
+
+Overfull \hbox (11.25pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 al-
+ []
+
+
+Overfull \hbox (22.49pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 ności
+ []
+
+
+Overfull \hbox (13.29pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 dla
+ []
+
+
+Overfull \hbox (25.04pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 zadań
+ []
+
+
+Overfull \hbox (12.27pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 in-
+ []
+
+
+Overfull \hbox (22.23001pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 west-
+ []
+
+
+Overfull \hbox (8.44pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 y-
+ []
+
+
+Overfull \hbox (32.72002pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 cyjnych
+ []
+
+
+Overfull \hbox (3.07pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 i
+ []
+
+
+Overfull \hbox (21.47pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 mod-
+ []
+
+
+Overfull \hbox (18.02pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 ern-
+ []
+
+
+Overfull \hbox (15.85pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 iza-
+ []
+
+
+Overfull \hbox (32.72002pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 cyjnych
+ []
+
+
+Overfull \hbox (65.30002pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 przewidzianych
+ []
+
+
+Overfull \hbox (10.22pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 do
+ []
+
+
+Overfull \hbox (11.89001pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 re-
+ []
+
+
+Overfull \hbox (11.25pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 al-
+ []
+
+
+Overfull \hbox (15.85pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 iza-
+ []
+
+
+Overfull \hbox (10.74002pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 cji
+ []
+
+
+Overfull \hbox (6.64pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 w
+ []
+
+
+Overfull \hbox (14.57pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 lat-
+ []
+
+
+Overfull \hbox (14.82pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 ach
+ []
+
+
+Overfull \hbox (44.46pt too wide) in paragraph at lines 162--163
+\TU/lmr/m/it/10 2008-2011\nullfont ,
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.164 	\bibitem{maciej_lada}
+                          
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.164 	\bibitem{maciej_lada}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.164 	\bibitem{maciej_lada}
+                          
+I'm forgetting what you said and using zero instead.
+
+\bibcite{maciej_lada}{0}
+
+Overfull \hbox (23.79pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 Anal-
+ []
+
+
+Overfull \hbox (12.27pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 iza
+ []
+
+
+Overfull \hbox (26.06999pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 zmian
+ []
+
+
+Overfull \hbox (57.50002pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 funkcjonowa-
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 nia
+ []
+
+
+Overfull \hbox (25.43001pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 trans-
+ []
+
+
+Overfull \hbox (22.62001pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 portu
+ []
+
+
+Overfull \hbox (46.13004pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 zbiorowego
+ []
+
+
+Overfull \hbox (33.48001pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 wynika-
+ []
+
+
+Overfull \hbox (11.76001pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 ją-
+ []
+
+
+Overfull \hbox (19.17001pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 cych
+ []
+
+
+Overfull \hbox (4.09pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 z
+ []
+
+
+Overfull \hbox (13.55pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 bu-
+ []
+
+
+Overfull \hbox (21.72pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 dowy
+ []
+
+
+Overfull \hbox (30.27pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 węzłów
+ []
+
+
+Overfull \hbox (12.27pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 in-
+ []
+
+
+Overfull \hbox (11.50002pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 te-
+ []
+
+
+Overfull \hbox (17.00002pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 gra-
+ []
+
+
+Overfull \hbox (32.72002pt too wide) in paragraph at lines 165--166
+\TU/lmr/m/it/10 cyjnych\nullfont ,
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.167 	\bibitem{kaszubowski}
+                          
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \@listctr 
+          
+l.167 	\bibitem{kaszubowski}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+    
+l.167 	\bibitem{kaszubowski}
+                          
+I'm forgetting what you said and using zero instead.
+
+\bibcite{kaszubowski}{0}
+
+Overfull \hbox (35.66pt too wide) in paragraph at lines 168--169
+\TU/lmr/m/it/10 Badanie
+ []
+
+
+Overfull \hbox (29.65002pt too wide) in paragraph at lines 168--169
+\TU/lmr/m/it/10 jakości
+ []
+
+
+Overfull \hbox (22.62pt too wide) in paragraph at lines 168--169
+\TU/lmr/m/it/10 usług
+ []
+
+
+Overfull \hbox (25.43001pt too wide) in paragraph at lines 168--169
+\TU/lmr/m/it/10 trans-
+ []
+
+
+Overfull \hbox (22.62001pt too wide) in paragraph at lines 168--169
+\TU/lmr/m/it/10 portu
+ []
+
+
+Overfull \hbox (46.13004pt too wide) in paragraph at lines 168--169
+\TU/lmr/m/it/10 zbiorowego
+ []
+
+
+Overfull \hbox (10.73pt too wide) in paragraph at lines 168--169
+\TU/lmr/m/it/10 na
+ []
+
+
+Overfull \hbox (25.04001pt too wide) in paragraph at lines 168--169
+\TU/lmr/m/it/10 nowej
+ []
+
+
+Overfull \hbox (23.90002pt too wide) in paragraph at lines 168--169
+\TU/lmr/m/it/10 trasie
+ []
+
+
+Overfull \hbox (35.65001pt too wide) in paragraph at lines 168--169
+\TU/lmr/m/it/10 tramwa-
+ []
+
+
+Overfull \hbox (22.49002pt too wide) in paragraph at lines 168--169
+\TU/lmr/m/it/10 jowej
+ []
+
+
+Overfull \hbox (6.64pt too wide) in paragraph at lines 168--169
+\TU/lmr/m/it/10 w
+ []
+
+
+Overfull \hbox (23.01001pt too wide) in paragraph at lines 168--169
+\TU/lmr/m/it/10 dziel-
+ []
+
+
+Overfull \hbox (18.15001pt too wide) in paragraph at lines 168--169
+\TU/lmr/m/it/10 nicy
+ []
+
+
+Overfull \hbox (32.27pt too wide) in paragraph at lines 168--169
+\TU/lmr/m/it/10 Gdańsk
+ []
+
+
+Overfull \hbox (29.14pt too wide) in paragraph at lines 168--169
+\TU/lmr/m/it/10 Połud-
+ []
+
+
+Overfull \hbox (13.29001pt too wide) in paragraph at lines 168--169
+\TU/lmr/m/it/10 nie\nullfont ,
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{thebibliography}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.172 \end{thebibliography}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.172 \end{thebibliography}
+                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.172 \end{thebibliography}
+                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.172 \end{thebibliography}
+                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.172 \end{thebibliography}
+                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.172 \end{thebibliography}
+                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+)
+! Emergency stop.
+<*> bib.tex
+        
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 30 strings out of 494568
+ 100000,89155 words of node,token memory allocated 40709 words of node memory still in use:
+   484 hlist, 150 disc, 29 local_par, 1 dir, 8 math, 1254 glue, 122 kern, 285 pe
+nalty, 3884 glyph, 173 attribute, 33 glue_spec, 173 attribute_list nodes
+   avail lists: 2:3,3:1,4:30,5:1,7:26,8:32,10:29
+ 4188 multiletter control sequences out of 65536+200000
+ 26 fonts using 1476487 bytes
+ 18i,4n,12p,359b,176s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
